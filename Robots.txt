@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gtvth.github.io/rakthoejondaiep1/sitemap.xml
